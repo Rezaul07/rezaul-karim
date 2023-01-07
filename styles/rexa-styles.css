@@ -8,20 +8,18 @@ header{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 100vh;
-    position: relative;
+    height: 700px;
 }
 section{
     padding-top: 130px;
 }
 .banner-content{
-    position: absolute;
     align-items: flex-end;
     top: 28%;
     right: 18%;
     width: 458px;
     height: 100%;
-    text-align: center;
+    text-align: right;
     display: flex;
     flex-direction: column;
     justify-content: center;
