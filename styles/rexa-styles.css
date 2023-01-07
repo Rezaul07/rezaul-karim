@@ -14,7 +14,7 @@ section{
     padding-top: 130px;
 }
 .banner-content{
-    align-items: center;
+    align-items: flex-end;
     width: 90%;
     height: 100%;
     text-align: right;
