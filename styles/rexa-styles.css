@@ -20,7 +20,7 @@ section{
     text-align: right;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-end;
 }
 .banner-title{
     font-weight: 700;
