@@ -15,13 +15,16 @@ section{
     padding-top: 130px;
 }
 .banner-content{
-    align-items: center;
-    width: 100%;
+    position: absolute;
+    align-items: flex-end;
+    top: 28%;
+    right: 18%;
+    width: 458px;
     height: 100%;
-    text-align: right;
+    text-align: center;
     display: flex;
     flex-direction: column;
-    justify-content: flex-end;
+    justify-content: center;
 }
 .banner-title{
     font-weight: 700;
